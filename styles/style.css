@@ -139,10 +139,10 @@ body {
         width: auto;
     }
     .apresentacao__botoes__nav{
-        width: 70%;
+        width: 80%;
     }
     .imagem__perfil{
-        width: 90%;
+        width: 80%;
      }
     .rodape{
         background-color: var(--main-text-color);
